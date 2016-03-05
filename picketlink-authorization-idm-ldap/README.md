@@ -49,7 +49,7 @@ You can run this quickstart using your own or the embedded LDAP server. You must
 
 ### Configure the Quickstart to Use Your LDAP Server
 
-To run this quickstart using your own LDAP Server, modify the String constant values in the  `org.jboss.as.quickstarts.picketlink.idm.ldap.IDMConfiguration` class to the connection values for your LDAP server.
+To run this quickstart using your own LDAP Server, modify the String constant values in the  `org.jboss.as.quickstarts.picketlink.idm.ldap.IdentityManagementConfiguration` class to the connection values for your LDAP server.
 
 ### Configure the Quickstart to Use the Embedded LDAP Server
 
